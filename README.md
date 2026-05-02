@@ -13,7 +13,7 @@ ShareBook is a full-stack web application built on the MERN stack that allows us
 
 ## 💻 Tech Stack
 
-- **Frontend**: React.js, Vite, Vanilla CSS (Premium Glassmorphism UI)
+- **Frontend**: React.js, Vite, Vanilla CSS 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (Mongoose ORM)
 - **Authentication**: JSON Web Tokens (JWT), Bcrypt Password Hashing
@@ -46,9 +46,3 @@ npm run dev
 ```
 *The frontend will start running on `http://localhost:5174`*
 
-## 🎨 Design
-
-The application features a modern UI with custom typography using Google Fonts (**Outfit** for headings, **Inter** for body text) and a vibrant Indigo/Violet color scheme with subtle micro-animations.
-
----
-*Developed for academic presentation & demonstration.*
